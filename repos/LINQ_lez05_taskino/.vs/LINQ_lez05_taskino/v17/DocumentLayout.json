@@ -18,20 +18,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Prodotto.cs",
               "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\LINQ_lez05_taskino\\LINQ_lez05_taskino\\Models\\Prodotto.cs",
               "RelativeDocumentMoniker": "LINQ_lez05_taskino\\Models\\Prodotto.cs",
-              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\LINQ_lez05_taskino\\LINQ_lez05_taskino\\Models\\Prodotto.cs*",
-              "RelativeToolTip": "LINQ_lez05_taskino\\Models\\Prodotto.cs*",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\LINQ_lez05_taskino\\LINQ_lez05_taskino\\Models\\Prodotto.cs",
+              "RelativeToolTip": "LINQ_lez05_taskino\\Models\\Prodotto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-25T13:06:29.606Z",
@@ -47,8 +43,11 @@
               "RelativeToolTip": "LINQ_lez05_taskino\\Program.cs",
               "ViewState": "AgIAAEsAAAAAAAAAAAAQwFcAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T13:05:03.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T13:05:03.312Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
